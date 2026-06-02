@@ -6,7 +6,7 @@
 
 Samuel Frometa Arias
 
-Cybersecurity enthusiast | Software & Game Developer
+Cybersecurity | Software & Game Developer enthusiast
 
 ASIR student
 
