@@ -17,11 +17,6 @@ https://selnull.duckdns.org/
 
 ASIR · Administración de Sistemas Informáticos en Red (En curso)
 ```
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Learn.+Break.+Build.+Repeat.;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Odoo+%7C+Astro+%7C+Ciberseguridad;Freelancer+basado+en+Manresa%2C+Espa%C3%B1a&font=Fira+Code&center=true&width=500&height=45&color=6C63FF&vCenter=true&size=22" alt="typing-svg" />
-</p>
-
 ---
 
 ##  Sobre mí
@@ -65,15 +60,6 @@ También exploro el ámbito de la **ciberseguridad**, profundizando en herramien
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-##  En qué estoy trabajando ahora
-
-- ️ **Rep Counter PWA** — app de conteo de repeticiones (dominadas, sentadillas) usando visión por computador con MediaPipe Pose
--  **Módulos Odoo 17** — desarrollo de funcionalidades a medida para gestión inmobiliaria (seguridad por grupos, firma digital de contratos, dashboards OWL)
--  Generador de texto aleatorio con Perchance
--  Profundizando en ciberseguridad ofensiva y defensiva
 
 ---
 
