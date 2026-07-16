@@ -63,19 +63,6 @@ También exploro el ámbito de la **ciberseguridad**, profundizando en herramien
 
 ---
 
-##  Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelfrometa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfrometa&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelfrometa&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ##  Conecta conmigo
 
 <div align="center">
