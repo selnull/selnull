@@ -2,8 +2,7 @@
 
 #  Hola, soy Samuel Frometa Arias
 
-### Cybersecurity Enthusiast · Software & Game Developer · Odoo Specialist
-
+### Cybersecurity Enthusiast · Software
 </div>
 
 ```bash
