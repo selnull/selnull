@@ -68,5 +68,9 @@ También exploro el ámbito de la **ciberseguridad**, profundizando en herramien
 
 [![Portfolio](https://img.shields.io/badge/Web-selnull.duckdns.org-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://selnull.duckdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-samuelfrometa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelfrometa)
+[![YouTube](https://img.shields.io/badge/YouTube-SelNull-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SelNull)
+[![Instagram](https://img.shields.io/badge/Instagram-selnull9-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/selnull9/)
+[![TikTok](https://img.shields.io/badge/TikTok-selnull-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@selnull)
+
 
 </div>
