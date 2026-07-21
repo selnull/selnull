@@ -14,7 +14,7 @@ https://selnull.duckdns.org/
 ╭─░▒▓ ~/samuelfrometa ▓▒░──────────────────────────────────────────────────░▒▓   online ▓▒░
 ╰─$ aprendizaje
 
-ASIR · Administración de Sistemas Informáticos en Red (En curso)
+ASIR · Administración de Sistemas Informáticos en Red
 ```
 ---
 
